@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @MantaSEYE02
+- 👋 Hi, I'm @Ma Anta SEYE
 - 👀 I'm interested in engineering in DATA ANALYSIS AND ANALYTICS
 - 🌱 I'm currently learning Econometric Data and Evaluation Engineer. 
 - 💞️ I'm looking to collaborate on Data Analysis And Analytics Engineer
